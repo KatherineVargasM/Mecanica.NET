@@ -1,0 +1,6 @@
+@Mecanica.NET_HostAddress = http://localhost:5025
+
+GET {{Mecanica.NET_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
