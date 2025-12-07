@@ -20,12 +20,10 @@ namespace Mecanica.NET
         [HttpGet]
         public async Task<ActionResult<IEnumerable<empleadoModel>>> GetEmpleados()
         {
-            // Lógica RESTAURADA: Ahora usa la base de datos
             return await _context.Empleados.ToListAsync();
         }
 
         [HttpGet("{id}")]
-        // ... (resto del código se mantiene igual)
         public async Task<ActionResult<empleadoModel>> GetempleadoModel(long id)
         {
             var empleadoModel = await _context.Empleados.FindAsync(id);

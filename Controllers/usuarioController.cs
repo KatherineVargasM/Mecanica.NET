@@ -20,14 +20,12 @@ namespace Mecanica.NET.Controllers
             _context = context;
         }
 
-        // GET: api/usuario
         [HttpGet]
         public async Task<ActionResult<IEnumerable<usuarioModel>>> GetUsuarios()
         {
             return await _context.Usuarios.ToListAsync();
         }
 
-        // GET: api/usuario/5
         [HttpGet("{id}")]
         public async Task<ActionResult<usuarioModel>> GetusuarioModel(long id)
         {
@@ -41,7 +39,7 @@ namespace Mecanica.NET.Controllers
             return usuarioModel;
         }
 
-        // PUT: api/usuario/5
+
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPut("{id}")]
         public async Task<IActionResult> PutusuarioModel(long id, usuarioModel usuarioModel)

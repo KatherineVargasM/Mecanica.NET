@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mecanica.NET")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b1e921e3d36b8a8797f7811e9a24342b0785fde")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca02a56d205c35eafa13927a2da652f68fff844b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mecanica.NET")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mecanica.NET")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
