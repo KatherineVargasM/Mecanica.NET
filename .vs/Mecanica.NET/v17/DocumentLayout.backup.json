@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\xampp\\htdocs\\5to\\Mecanica.NET\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{870E56F1-4855-4FCD-8830-8E014CC46AD4}|Mecanica.NET.csproj|c:\\xampp\\htdocs\\5to\\mecanica.net\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870E56F1-4855-4FCD-8830-8E014CC46AD4}|Mecanica.NET.csproj|solutionrelative:models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{870E56F1-4855-4FCD-8830-8E014CC46AD4}|Mecanica.NET.csproj|c:\\xampp\\htdocs\\5to\\mecanica.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{870E56F1-4855-4FCD-8830-8E014CC46AD4}|Mecanica.NET.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{870E56F1-4855-4FCD-8830-8E014CC46AD4}|Mecanica.NET.csproj|c:\\xampp\\htdocs\\5to\\mecanica.net\\models\\vehiculomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{870E56F1-4855-4FCD-8830-8E014CC46AD4}|Mecanica.NET.csproj|solutionrelative:models\\vehiculomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{870E56F1-4855-4FCD-8830-8E014CC46AD4}|Mecanica.NET.csproj|c:\\xampp\\htdocs\\5to\\mecanica.net\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{870E56F1-4855-4FCD-8830-8E014CC46AD4}|Mecanica.NET.csproj|solutionrelative:models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{870E56F1-4855-4FCD-8830-8E014CC46AD4}|Mecanica.NET.csproj|c:\\xampp\\htdocs\\5to\\mecanica.net\\models\\serviciomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,11 +62,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "usuarioModel.cs",
               "DocumentMoniker": "C:\\xampp\\htdocs\\5to\\Mecanica.NET\\Models\\usuarioModel.cs",
               "RelativeDocumentMoniker": "Models\\usuarioModel.cs",
@@ -79,7 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "vehiculoModel.cs",
               "DocumentMoniker": "C:\\xampp\\htdocs\\5to\\Mecanica.NET\\Models\\vehiculoModel.cs",
               "RelativeDocumentMoniker": "Models\\vehiculoModel.cs",
@@ -92,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\xampp\\htdocs\\5to\\Mecanica.NET\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -105,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Mecanica.NET.http",
               "DocumentMoniker": "C:\\xampp\\htdocs\\5to\\Mecanica.NET\\Mecanica.NET.http",
               "RelativeDocumentMoniker": "Mecanica.NET.http",
@@ -118,7 +118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MecanicaDbContextFactory.cs",
               "DocumentMoniker": "C:\\xampp\\htdocs\\5to\\Mecanica.NET\\MecanicaDbContextFactory.cs",
               "RelativeDocumentMoniker": "MecanicaDbContextFactory.cs",
@@ -131,13 +131,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\xampp\\htdocs\\5to\\Mecanica.NET\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\xampp\\htdocs\\5to\\Mecanica.NET\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-06T23:15:43.951Z",
               "EditorCaption": ""
